@@ -1,0 +1,15 @@
+kaleido==0.2.1
+markdownify==1.1.0
+numpy==2.2.3
+openai==1.66.3
+pandas==2.2.3
+pillow==11.1.0
+plotly==6.0.1
+python-dotenv==1.0.1
+requests==2.32.3
+smolagents==1.14.0
+tavily-python==0.5.1
+# geopandas
+# json
+# numpy
+# shapely
